@@ -1,5 +1,5 @@
 # prompt-rebellion
-A resource for the latest adversarial prompting and llm security news and resources
+A resource for the latest adversarial prompting and llm security news and references
 
 - Adversarial Prompting References
   - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-adversarial.md
